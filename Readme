@@ -1,0 +1,11 @@
+Librerias:
+ -wget
+ -.Net Framework 4x
+ -unrar
+Creado en x64 para cualquier disposicion.
+No es compatible con wine.
+Esta en fase de desarrollo por lo que se pueden experimentar bugs, Fallos..
+
+Instalacion:
+ Ver 1.x Descargar carpeta Product del repositorio. Ejecutar UltraOS.exe (No modificar ningun archivo [tu instalacion de UltraOS o tu pc podia verse dañado])
+ (Se esta trabajando en un instalador de Ultra. Ya falta poco)
